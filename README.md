@@ -1,2 +1,1 @@
-# brainfck
- 
+# brainf*ck;
